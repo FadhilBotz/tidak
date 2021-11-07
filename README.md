@@ -17,6 +17,7 @@
 > cd
 > cd mel-bot
 > bash install.sh
+> npm i
 > node .
 > Scan dah tuh qr 
 ```
