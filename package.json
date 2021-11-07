@@ -1,0 +1,66 @@
+{
+  "name": "Melcanz",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Bot",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "async": "^3.2.2",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0",
+    "base64-img": "^1.0.4",
+    "brainly-scraper": "^1.0.3",
+    "browser-id3-writer": "^4.4.0",
+    "cfonts": "^2.10.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "emoji-api": "^2.0.1",
+    "figlet": "^1.5.2",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "got": "^11.8.2",
+    "hxz-api": "^1.0.1",
+    "image-to-base64": "^2.2.0",
+    "imgbb-uploader": "^1.3.3",
+    "insta-fetcher": "^1.2.3",
+    "jsdom": "^18.0.1",
+    "marker": "^0.1.2",
+    "mathjs": "^10.0.0",
+    "moment-timezone": "^0.5.33",
+    "ms": "^2.1.3",
+    "parse-ms": "^2.1.0",
+    "performance-now": "^2.1.0",
+    "qrcode": "^1.4.4",
+    "qrcode-terminal": "^0.12.0",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "scraper-instagram": "^1.0.17",
+    "spinnies": "^0.5.1",
+    "terminal-kit": "^2.1.8",
+    "yt-search": "^2.10.2",
+    "ytsr": "^3.5.3"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "supervisor main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xmell91/melbotv2"
+  },
+  "keywords": [
+    "Wasu"
+  ],
+  "author": "Xmell91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xmell91/melbotv2"
+  },
+  "homepage": "https://github.com/Xmell91/melbotv2"
+}
