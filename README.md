@@ -13,12 +13,10 @@
 > termux-setup-storage
 > cd /sdcard
 > cd download
-> cp -r melbotv2 $home
+> cp -r melbotv2-main $home
 > cd
 > cd mel-bot
 > bash install.sh
-> npm i
-> node .
 > Scan dah tuh qr 
 ```
 # edit nomer owner dll
